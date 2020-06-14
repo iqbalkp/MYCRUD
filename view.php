@@ -45,7 +45,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <ul class="nav pull-right top-menu">
         <li class="dropdown">
             <a data-toggle="dropdown" class="dropdown-toggle" href="">
-                <img alt="" src="aset/images/3.png">
+                <img alt="" src="aset/images/daskom.png">
                 <span class="username"></span>
                 <b class="caret"></b>
             </a>
