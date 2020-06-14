@@ -20,7 +20,7 @@
 					<strong>Nama produk : <?=$fetchProduct["productName"]?></strong><br>
 					IDR : <?=number_format($fetchProduct["productPrice"])?><br>
 					description : <?=$fetchProduct["productDescription"]?>
-				</td>				
+				</td>
 			</tr>
 			<tr>
 				<td>
@@ -33,6 +33,8 @@
 		<?php
 		}
 	?>
-	<a href="insert.php" style="text-align:right;"><button>insert new product</button></a>
+	<br>
+	<br>
+	<a href="insert.php" style="text-align:right;"><button style="color:red;">insert new product</button></a>
 </body>
 </html>
