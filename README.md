@@ -1,2 +1,2 @@
 # MYCRUD
-belajar php dasar
+belajar php dasar bagi yang ingin bisa php
